@@ -125,6 +125,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
+    display:block;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
@@ -163,8 +164,17 @@ section.resume-section .resume-item .resume-date {
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
+  .img-logo {
+    max-width: 7rem;
+    max-height: 7rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+  }
 }
-
+@media (max-width:768px) {
+  .img-logo {
+    display: none;
+  }
+}
 @media (min-width: 992px) {
   section.resume-section {
     padding-top: 3rem !important;
