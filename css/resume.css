@@ -205,6 +205,14 @@ a:hover, a:focus, a:active {
   color: black;
 }
 
-p, div {
+p, div, summary {
   font-size: 1.3rem;
+}
+
+summary {
+  font-weight: 600;
+}
+
+.larger {
+  font-size: 2rem;
 }
