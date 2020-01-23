@@ -213,6 +213,10 @@ summary {
   font-weight: 600;
 }
 
-.larger {
-  font-size: 2rem;
+.nametittle {
+  font-size: 1.3rem;
+}
+
+ul {
+  list-style-type: disc;
 }
