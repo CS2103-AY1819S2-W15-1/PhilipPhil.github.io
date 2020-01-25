@@ -212,11 +212,14 @@ p, div, summary {
   font-size: 1.3rem;
 }
 
-summary {
+.jobsummary {
   font-weight: 600;
 }
 
-.nametittle {
+details .skillsummary::-webkit-details-marker {
+  display:none;
+}
+.nametittle ::-webkit-details-marker {
   font-size: 1.3rem;
 }
 
@@ -224,3 +227,7 @@ ul {
   list-style-type: disc;
 }
 
+details p {
+  font-size: 1rem;
+  font-stretch: condensed;
+}
