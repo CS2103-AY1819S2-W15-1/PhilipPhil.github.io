@@ -123,8 +123,10 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
+    /* max-width: 10rem;
+    max-height: 10rem; */
+    max-width: 12rem;
+    max-height: 12rem;
     display:block;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
@@ -170,6 +172,7 @@ section.resume-section .resume-item .resume-date {
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
 }
+
 @media (max-width:768px) {
   .img-logo {
     display: none;
@@ -220,3 +223,4 @@ summary {
 ul {
   list-style-type: disc;
 }
+
