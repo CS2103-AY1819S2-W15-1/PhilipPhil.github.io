@@ -263,8 +263,8 @@ details p {
 .centerthing {
   margin: auto;
   width: 90%;
-  padding: 3rem !important;
-  border: 3px solid #272b30 ;
+  /* padding: 3rem !important;
+  border: 3px solid #272b30 ; */
 }
 
 
