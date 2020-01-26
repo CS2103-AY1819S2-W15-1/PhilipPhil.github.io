@@ -235,3 +235,41 @@ details p {
 .skillsa {
   text-decoration: underline;
 }
+
+
+
+
+
+
+.carousel-indicators li {
+  filter: invert(100%);
+}
+
+.carousel-indicators .active {
+  filter: invert(100%);
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.carousel-item img{
+  width: auto;
+  margin: auto; 
+  /* display: block; */
+}
+
+.centerthing {
+  margin: auto;
+  width: 90%;
+  padding: 3rem !important;
+  border: 3px solid #272b30 ;
+}
+
+
+.carousel-caption {
+  font-size: 0.5rem;
+  font-stretch: condensed;
+  color: #61676d;
+}
