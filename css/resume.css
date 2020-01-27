@@ -216,9 +216,16 @@ p, div, summary {
   font-weight: 600;
 }
 
-details .skillsummary::-webkit-details-marker {
+/* details .skillsummary::-webkit-details-marker {
   display:none;
+} */
+
+.skilllist {
+  list-style-type: none;
+  padding: 1rem;
+  /* margin: 0; */
 }
+
 .nametittle ::-webkit-details-marker {
   font-size: 1.3rem;
 }
