@@ -222,7 +222,7 @@ p, div, summary {
 
 .skilllist {
   list-style-type: none;
-  padding: 1rem;
+  padding-left: 1rem;
   /* margin: 0; */
 }
 
