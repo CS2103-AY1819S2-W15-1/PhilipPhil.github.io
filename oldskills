@@ -1,0 +1,310 @@
+    <!-- <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+      <div class="w-100">
+        <h2 class="mb-2">Skills</h2>
+        <div class="subheading mb-1">Programming Languages &amp; Tools</div>
+        
+        <div class="row">
+          <div class="col-md-3">
+            <ul>
+                <li>
+                  Java <i class="fab fa-java"></i>
+                </li>
+                <li>
+                  SQL <i class="fas fa-database"></i>
+                </li>
+                <li>
+                  Linux &amp; Unix <i class="fab fa-linux"></i>
+                </li>
+                <li>
+                  Bash <i class="fas fa-terminal"></i>
+                </li>
+            </ul>
+          </div>
+
+          <div class="col-md-3">
+            <ul>
+              <li>
+                Python <i class="fab fa-python"></i>
+              </li>
+              <li>
+                <i class="fab fa-r-project"></i>
+              </li>
+              <li>
+                MATLAB
+              </li>
+              <li>
+                Microsoft Excel <i class="fab fa-microsoft"></i>
+              </li>
+            </ul>
+          </div>
+
+          <div class="col-md-3">
+            <ul>
+              <li>
+                Git <i class="fab fa-git-alt"></i>
+              </li>
+              <li>
+                GitHub <i class="fab fa-github-alt"></i>
+              </li>
+              <li>
+                Sourcetree <i class="fab fa-sourcetree"></i>
+              </li>
+            </ul>
+          </div>
+          
+          <div class="col-md-3">
+            <ul>
+              <li>
+                JavaScript <i class="fab fa-js-square"></i>
+              </li>
+              <li>
+                HTML5 <i class="fab fa-html5"></i>
+              </li>
+              <li>
+                CSS3 <i class="fab fa-css3-alt"></i>
+              </li>
+              <li>
+                Adobe Photoshop <i class="fab fa-adobe"></i>
+              </li>
+            </ul>
+          </div>
+                  
+        </div>
+
+        <div class="subheading mb-1">Key Courses</div>
+        <div class="row"> 
+          <div class="col-md-4">
+              <ul class="skilllist">
+                <li>
+                  <details>
+                    <summary class="skillsummary">Applied Data Mining</summary>
+                    <p class="mb-0"> 
+                      Data mining is an interdisciplinary science to discover useful structure, to extract information from large data sets, and to make predictions. This module focuses on the most recent but well accepted methods, especially those in investigating big and complicated data, including Lasso regression, nonparametric smoothing, Neural Networks and machine learning.                    </p>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Bayesian Statistics</summary>
+                    <p class="mb-0">
+                      This module covers Bayesian principles: Bayes' theorem, estimation, hypothesis testing, prior distributions, likelihood, predictive distributions. Bayesian computation: numerical approximation, posterior simulation and integration, Markov chain simulation, models and applications: hierarchical linear models, generalized linear models, multivariate models, mixture models, models for missing data, case studies.
+                    </p>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Computer Intensive Statistical Methods</summary>
+                    <p class="mb-0">
+                      The availability of high-speed computation has led to the development of “modern” statistical methods which are implemented in the form of well-understood computer algorithms. This module introduces students to several computer intensive statistical methods and the topics include: empirical distribution and plug-in principle, general algorithm of bootstrap method, bootstrap estimates of standard deviation and bias, jack-knife method, bootstrap confidence intervals, the empirical likelihood for the mean and parameters defined by simple estimating function, Wilks theorem, and EL confidence intervals, missing data, EM algorithm, Markov Chain Monte Carlo methods.
+                    </p>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Time Series Forecasting</summary>
+                    <p class="mb-0">
+                      The course covers a range of key methods in the field of time series. Trend and seasonality, autocorrelation, stationarity, stochastic models, exponential smoothing, Holt-Winters methods, Box-Jenkins approach, frequency domain analysis.
+                    </p>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Linear Models</summary>
+                    <p class="mb-0">
+                      Modelling a response (output) variable as a function of several explanatory (input) variables: multiple regression for a continuous response, logistic regression for a binary response, and log-linear models for count data. Finding low-dimensional structure: principal components analysis. Cluster analysis. This course emphasizes (i) applications of statistical methods such as multiple regression, binary regression, principal component analysis; (ii) the use of statistical software to do the computations; and (iii) interpretation of statistical analysis and output of statistical software.
+                    </p>
+                  </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Statistical Inference</summary>
+                    <p class="mb-0">
+                      Probability distributions and moments. Moment generating functions and their properties. Limiting distributions. Parameter estimation, maximum likelihood estimators and their properties. Exact and approximate confidence intervals. Bayes’ rule, prior and posterior distributions. Bayesian (credible) intervals. Hypothesis testing and confidence intervals. Likelihood ratio tests and their properties. Categorical data and multinomial distribution. Goodness of fit tests.
+                    </p>
+                    </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Stochastic Processes</summary>
+                    <p class="mb-0">
+                      Discrete-time Markov chains, exponential distribution and Poisson process, continuous time Markov chains, renewal theory.
+                    </p>
+                    </details>
+                </li>
+              </ul> 
+          </div>
+
+          <div class="col-md-4">
+              <ul class="skilllist">
+                <li>
+                  <details>
+                    <summary class="skillsummary">Applied Linear Algebra</summary>
+                    <p class="mb-0">
+                      Interpolation, Finite difference approximations, Formula matrix of a chemical system, Graphs and Networks, Least squares, Fourier series, Fast Fourier Transform, JPEC compression, Power method, Recursion relations, The Anderson tight binding model, Markov chains, Google PageRank.
+                    </p>
+                    </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Linear Programming</summary>
+                    <p class="mb-0">
+                      This course covers Linear Optimization, optimizing a linear objective function subject to linear constraints. Linear programming problems, dual problems, the simplex algorithm, solution of primal and dual problems, sensitivity analysis. Additional topics chosen from: Karmarkar's algorithm, non-linear programming, game theory, applications.
+                    </p>
+                    </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Non-linear Programming</summary>
+                    <p class="mb-0">
+                      The objective of this course is to present these principles and illustrate how algorithms can be designed from the mathematical theories for solving optimization problems. Major topics: Fundamentals, unconstrained optimization: one-dimensional search, Newton-Raphson method, gradient method, constrained optimization: Lagrangian multipliers method, Karush-Kuhn-Tucker optimality conditions, Lagrangian duality and saddle point optimality conditions, convex programming: Frank-Wolfe method.
+                    </p>
+                    </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Discrete Optimization</summary>
+                    <p class="mb-0">
+                      Formulation of real-world optimization problems using techniques such as linear programming, network flows, integer programming, dynamic programming. Solution by appropriate software.
+                    </p>
+                    </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Differential Equations I & II</summary>
+                    <p>
+                      First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems. Applications of these topics will be emphasized.
+                    </p>
+                    <p class="mb-0">
+                      Power series methods (ordinary and regular singular points, Bessel's equation); boundary value problems and separation of variables (Fourier series and other orthogonal series), applications to the vibrating string, heat flow, potentials.
+                    </p>
+                    </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Mathematical Analysis I & II</summary>
+                    <p>
+                      Sets and functions; induction; cardinality; properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout.                    </p>
+                    <p class="mb-0">
+                      The real number system; real Euclidean n-space; open, closed, compact, and connected sets; Bolzano-Weierstrass theorem; sequences and series. Continuity and uniform continuity. Differentiability and mean-value theorems.                    </p>
+                    </details>
+                </li>
+                <li>
+                  <details>
+                    <summary class="skillsummary">Probability</summary>
+                    <p class="mb-0">
+                      Notions of probability, random variables, expectation and conditional expectation, limit theorems.
+                    </p>
+                    </details>
+                </li>
+              </ul>
+            </div>
+
+            <div class="col-md-4">
+                <ul class="skilllist">
+                  <li>
+                    <details>
+                      <summary class="skillsummary">Machine Learning</summary>
+                      <p class="mb-0">
+                        Models of algorithms for dimensionality reduction, nonlinear regression, classification, clustering and unsupervised learning; applications to computer graphics, computer games, bio-informatics, information retrieval, e-commerce, databases, computer vision and artificial intelligence.
+                      </p>
+                      </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary class="skillsummary">Database Systems (SQL)</summary>
+                      <p class="mb-0">
+                        Design and implementation of database applications and of the management of data with relational database management systems. The module covers practical and theoretical aspects of design with entity-relationship model, theory of functional dependencies and normalisation by decomposition in second, third and Boyce-Codd normal forms. The module covers practical and theoretical aspects of programming with SQL data definition and manipulation sublanguages, relational tuple calculus, relational domain calculus and relational algebra.
+                      </p>
+                      </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary class="skillsummary">Algorithms I & II</summary>
+                      <p>
+                        Design and analysis of algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, data structures, graphs and concurrency.
+                      </p>
+                      <p class="mb-0">
+                        Algorithm analysis, for example, lower bound arguments, average case analysis, and the theory of NP-completeness. In addition, students are exposed to various algorithm design paradigms. The module serves two purposes: to improve the students' ability to design algorithms in different areas, and to prepare students for the study of more advanced algorithms. The module covers lower and upper bounds, recurrences, algorithm paradigms (such as prune-and-search, dynamic programming, branch-and-bound, graph traversal, and randomised approaches), amortized analysis, NP-completeness, and some selected advanced topics.                      </p>
+                      </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary class="skillsummary">Software Engineering I & II</summary>
+                      <p>
+                        Design, development, and analysis of robust software components. Topics such as software design, computational models, data structures, debugging, and testing.
+                      </p>
+                      <p class="mb-0">
+                        Conceptual and analytical tools for systematic and rigorous development of software systems. It covers four main areas of software development, namely object-oriented system analysis, object-oriented system modelling and design, implementation, and testing, with emphasis on system modelling and design and implementation of software modules that work cooperatively to fulfill the requirements of the system. Tools and techniques for software development, such as Unified Modelling Language (UML), program specification, and testing methods, will be taught. Major software engineering issues such as modularisation criteria, program correctness, and software quality will also be covered.                      </p>
+                      </details>
+                  </li>
+
+                  <br/>
+
+                  <li>
+                    <details>
+                      <summary class="skillsummary">Corporate Finance</summary>
+                      <p class="mb-0">
+                        Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. Key topics are: time value of money calculations, features of financial markets and securities, evaluate corporate and individual financing and investment decisions, value riskless and risky assets, understand capital allocation decisions, determine the capital structure of a firm and calculate its cost of capital.
+                      </p>
+                      </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary class="skillsummary">Microeconomics</summary>
+                      <p class="mb-0">
+                        Policy and institutions concerning the economics of markets and market behaviour, prices and costs, exchange and trade, competition and monopoly, distribution of income.
+                      </p>
+                      </details>
+                  </li>
+                  <li>
+                    <details>
+                      <summary class="skillsummary">Macroeconomics</summary>
+                      <p class="mb-0">
+                        Policy and institutions concerning the economics of growth and business cycles, national income accounting, interest and exchange rates, money and banking, the balance of trade.
+                      </p>
+                      </details>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="row">
+        
+              <div class="col-xl-8">
+ 
+              <div class="subheading mb-1">Coursera</div>     
+              <ul>
+                <li>
+                  Advanced Styling with Responsive Design <a class="skillsa" href="https://www.coursera.org/account/accomplishments/certificate/JA7LNAANYH6J">See credential</a>
+                </li>
+                <li>
+                  Interactivity with JavaScript <a class="skillsa" href="https://www.coursera.org/account/accomplishments/certificate/VQQWLXCKFGKH">See credential</a>
+                </li>
+                <li>
+                  Introduction to CSS3 <a class="skillsa" href="https://www.coursera.org/account/accomplishments/certificate/V2ZFY94DUL87">See credential</a>
+                </li>
+                <li>
+                  Introduction to HTML5 <a class="skillsa" href="https://www.coursera.org/account/accomplishments/certificate/YRPY23RKUPRR">See credential</a>
+                </li>
+                <li>
+                  How to Win a Data Science Competition <a class="skillsa" href="https://www.coursera.org/account/accomplishments/certificate/J5FNSKSU66TQ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate">See credential</a>
+                </li>
+              </ul> 
+            </div>  
+
+            <div class="col-xl-4">
+              <div class="subheading mb-1">Languages</div>     
+              <ul>
+                <li>
+                  English - Native proficiency
+                </li>
+                <li>
+                  Serbian - Full professional proficiency
+                </li>                
+                <li>
+                  Croatian - Full professional proficiency <a class="skillsa" href="pdf/CroatianLevelB1.pdf">See credential</a>
+                </li>
+              </ul> 
+            </div>  
+          </div> 
+      </div>
+    </section> -->
